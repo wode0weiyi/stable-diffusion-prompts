@@ -4,5 +4,5 @@
 有兴趣的小伙伴可以帮忙完善提示词；提示词在`/src/assets/prompts.json`文件里面，大家可以进行添加和完善；
 
 ###### 联系
-wechat:wode_weiyi
-email:wonderfulhzh@163.com
+- wechat: wode_weiyi
+- email: wonderfulhzh@163.com
